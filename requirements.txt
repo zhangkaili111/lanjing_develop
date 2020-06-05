@@ -3,7 +3,7 @@ gevent == 1.4.0
 amqp == 2.5.0
 billiard == 3.6.0.0
 celery == 3.1.17
-django == 1.8.19
+django == 1.11.29
 kombu == 4.6.3
 Mako == 1.0.14
 MarkupSafe == 1.1.1
