@@ -2,7 +2,7 @@ setuptools >= 30.3
 gevent == 1.4.0
 amqp == 2.5.0
 billiard == 3.6.0.0
-celery == 3.1.17
+celery == 5.2.2
 django == 1.8.19
 kombu == 4.6.3
 Mako == 1.0.14
